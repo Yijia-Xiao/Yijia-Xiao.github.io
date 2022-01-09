@@ -1,3 +1,13 @@
+permalink: /
+<!-- title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites" -->
+title: "Yijia Xiao's homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 My name is **Yijia Xiao**.
 
 I am currently a senior undergraduate from Department of Computer Science and Technology, Tsinghua University. I have been working as a research assistant at [Tsinghua KEG](http://keg.cs.tsinghua.edu.cn/) since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
