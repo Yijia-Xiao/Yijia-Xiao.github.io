@@ -61,7 +61,7 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/publicatio
 - [Linkedin](https://www.linkedin.com/in/yijia-xiao/)
 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script>
 
 
 <!-- 
