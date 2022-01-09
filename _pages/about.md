@@ -50,19 +50,17 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/publicatio
 
 - **[A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization](https://Yijia-Xiao.github.io/files/A_Deep_Learning_Inference_Scheme.pdf)** <br/> *Yuyang Zhang*, *\*Dik Hin Leung*, *Min Guo*, ***Yijia Xiao***, *Haoyue Liu*, *Yunfei Li*, *Jiyuan Zhang*, *Guan Wang*, *Zhen Chen* <br/> IEEE CCIS 2021 (IEEE International Conference on Cloud Computing and Intelligence Systems)
 
-## Find me
-
-- [Email](mailto:mr.yijia.xiao@gmail.com)
-
-- [Google Scholar](https://scholar.google.com/citations?user=I8Y114YAAAAJ&hl=en)
-
-- [Github](https://github.com/Yijia-Xiao)
-
-- [Linkedin](https://www.linkedin.com/in/yijia-xiao/)
-
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script>
 
+<a href="https://clustrmaps.com/site/1bl9j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff" /></a>
+
+<!-- 
+## Find me
+- [Email](mailto:mr.yijia.xiao@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=I8Y114YAAAAJ&hl=en)
+- [Github](https://github.com/Yijia-Xiao)
+- [Linkedin](https://www.linkedin.com/in/yijia-xiao/)
+ -->
 
 <!-- 
 ## Homepage
