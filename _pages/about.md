@@ -52,7 +52,9 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/publicatio
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script> -->
 
+<p align="center">
 <a href="https://clustrmaps.com/site/1bl9j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff" /></a>
+</p>
 
 <!-- 
 ## Find me
