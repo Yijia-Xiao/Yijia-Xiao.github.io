@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- My name is **Yijia Xiao**. -->
-
 I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Besides, I have beed interning at [Toyota Technological Institute at Chicago](https://www.ttic.edu/), advised by [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/).
 
 
@@ -44,11 +42,11 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/publicatio
 
 \* for corresponding author
 
-- **[Modeling Protein Using Large-scale Pretrain Language Model](https://Yijia-Xiao.github.io/files/Modeling_Protein_Using_Large-scale_Pretrain_Language_Model.pdf)** <br/> ***Yijia Xiao***, *Jiezhong Qiu*, *Ziang Li*, *Chang-Yu Hsieh*, *\*Jie Tang* <br/> KDD 2021 Pretrain Workshop (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)
+- **[Modeling Protein Using Large-scale Pretrain Language Model](https://Yijia-Xiao.github.io/files/publications/Large-scale_Protein_Language_Model_Pretrain.pdf)** <br/> ***Yijia Xiao***, *Jiezhong Qiu*, *Ziang Li*, *Chang-Yu Hsieh*, *\*Jie Tang* <br/> KDD 2021 Pretrain Workshop (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)
 
-- **[SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance](https://arxiv.org/abs/2111.08008)** <br/> *Ziyi Yang*, *Zhaofeng Ye*, ***Yijia Xiao***, *\*Changyu Hsieh* <br/> Briefings in Bioinformatics (*under review*)
+- **[SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance](SPLDExtraTrees_Robust_Machine_Learning_Approach_for_Predicting_Kinase_Inhibitor_Resistance)** <br/> *Ziyi Yang*, *Zhaofeng Ye*, ***Yijia Xiao***, *\*Changyu Hsieh* <br/> Briefings in Bioinformatics (*under review*)
 
-- **[A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization](https://Yijia-Xiao.github.io/files/A_Deep_Learning_Inference_Scheme.pdf)** <br/> *Yuyang Zhang*, *\*Dik Hin Leung*, *Min Guo*, ***Yijia Xiao***, *Haoyue Liu*, *Yunfei Li*, *Jiyuan Zhang*, *Guan Wang*, *Zhen Chen* <br/> IEEE CCIS 2021 (IEEE International Conference on Cloud Computing and Intelligence Systems)
+- **[A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization](https://Yijia-Xiao.github.io/files/publications/Deep_Learning_Pipelined_Matrix_Multiplication_Acceleration_Design.pdf)** <br/> *Yuyang Zhang*, *\*Dik Hin Leung*, *Min Guo*, ***Yijia Xiao***, *Haoyue Liu*, *Yunfei Li*, *Jiyuan Zhang*, *Guan Wang*, *Zhen Chen* <br/> IEEE CCIS 2021 (IEEE International Conference on Cloud Computing and Intelligence Systems)
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script> -->
 
