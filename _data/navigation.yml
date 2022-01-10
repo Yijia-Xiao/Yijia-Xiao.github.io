@@ -1,25 +1,35 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Awards"
+  #   url: /awards/
 
-  - title: "Projects"
-    url: /projects/
-        
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  - title: "Services"
+    url: /services/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Extracurricular"
+  #   url: /extracurricular/
+
+  - title: "More about me"
+    url: /more/
+    # include Extracurricular here, and entrepreneurship, business related courses and experiences
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Talks"
-    url: /talks/    
-
   # - title: "Guide"
   #   url: /markdown/

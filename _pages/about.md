@@ -43,7 +43,7 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/files/publ
 
 - **[Modeling Protein Using Large-scale Pretrain Language Model](https://Yijia-Xiao.github.io/files/publications/Large-scale_Protein_Language_Model_Pretrain.pdf)** <br/> ***Yijia Xiao***, *Jiezhong Qiu*, *Ziang Li*, *Chang-Yu Hsieh*, *\*Jie Tang* <br/> KDD 2021 Pretrain Workshop (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)
 
-- **[SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance](SPLDExtraTrees_Robust_Machine_Learning_Approach_for_Predicting_Kinase_Inhibitor_Resistance)** <br/> *Ziyi Yang*, *Zhaofeng Ye*, ***Yijia Xiao***, *\*Changyu Hsieh* <br/> Briefings in Bioinformatics (*under review*)
+- **[SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance](https://Yijia-Xiao.github.io/files/publications/SPLDExtraTrees_Robust_Machine_Learning_Approach_for_Predicting_Kinase_Inhibitor_Resistance.pdf)** <br/> *Ziyi Yang*, *Zhaofeng Ye*, ***Yijia Xiao***, *\*Changyu Hsieh* <br/> Briefings in Bioinformatics (*under review*)
 
 - **[A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization](https://Yijia-Xiao.github.io/files/publications/Deep_Learning_Pipelined_Matrix_Multiplication_Acceleration_Design.pdf)** <br/> *Yuyang Zhang*, *\*Dik Hin Leung*, *Min Guo*, ***Yijia Xiao***, *Haoyue Liu*, *Yunfei Li*, *Jiyuan Zhang*, *Guan Wang*, *Zhen Chen* <br/> IEEE CCIS 2021 (IEEE International Conference on Cloud Computing and Intelligence Systems)
 
