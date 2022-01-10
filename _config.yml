@@ -187,7 +187,7 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
-  talks:
+  more:
     output: true
     permalink: /:collection/:path/
 
