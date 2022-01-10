@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- My name is **Yijia Xiao**. -->
 
-I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at [Tsinghua University Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Besides, I have beed interning at [Toyota Technological Institute at Chicago](https://www.ttic.edu/), advised by [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/).
+I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Besides, I have beed interning at [Toyota Technological Institute at Chicago](https://www.ttic.edu/), advised by [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/).
 
 
 ## Research Interests
