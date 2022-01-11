@@ -17,9 +17,11 @@ My research interests include computational biology, natural language processing
 
 ## Projects
 
-<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month. Details are availabel [here](https://yijia-xiao.github.io/projects/academic/1-megatron-msa/).
+<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month.
 
-Project details are available at [Projects Section](https://yijia-xiao.github.io/projects/).
+Project details about Megatron-MSA are available at [Projects Section](https://yijia-xiao.github.io/projects/).
+
+
 
 ### Megatron-MSA
 Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://Yijia-Xiao.github.io/files/publications/protein-msa.html).
