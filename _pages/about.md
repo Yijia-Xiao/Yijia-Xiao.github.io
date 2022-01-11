@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Besides, I have beed interning at [Toyota Technological Institute at Chicago](https://www.ttic.edu/), advised by [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/).
+I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Also, I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at [Toyota Technological Institute at Chicago](https://www.ttic.edu/). Besides, I interned at [Tencent Quantum Lab](https://quantum.tencent.com/en-us/), where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
 
 ## Research Interests

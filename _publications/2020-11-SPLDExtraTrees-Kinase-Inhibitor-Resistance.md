@@ -2,9 +2,9 @@
 title: "SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Ziyi Yang, Zhaofeng Ye, <b>Yijia Xiao</b>, Changyu Hsieh<br>We proposed a robust machine learning method for predicting ligand binding affinity changes upon protein mutations for cancer target Abl kinase and identifying resistant mutations.'
+excerpt: 'We proposed a robust machine learning method for predicting ligand binding affinity changes upon protein mutations for cancer target Abl kinase and identifying resistant mutations.'
 date: 2020-11-15
-venue: 'Briefings in Bioinformatics'
+venue: 'Ziyi Yang, Zhaofeng Ye, <b>Yijia Xiao</b>, Chang-Yu Hsieh<br>Briefings in Bioinformatics'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
