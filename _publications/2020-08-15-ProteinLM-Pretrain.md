@@ -23,23 +23,4 @@ Based on the scheme described above, we have pretrained a series of protein lang
 
 The paper is available [here](https://yijia-xiao.github.io/files/publications/Large-scale_Protein_Language_Model_Pretrain.pdf). The codes needed for pretraining and reproducing results are available [here](https://github.com/THUDM/ProteinLM). If you wish to download the models, you will need [apply](https://resource.wudaoai.cn/) and submit your affiliation and purposes. The models are free for usage in academic research.
 
-Please cite our paper if you find this work helpful for your research.
-```
-@article{DBLP:journals/corr/abs-2108-07435,
-  author    = {Yijia Xiao and
-               Jiezhong Qiu and
-               Ziang Li and
-               Chang{-}Yu Hsieh and
-               Jie Tang},
-  title     = {Modeling Protein Using Large-scale Pretrain Language Model},
-  journal   = {CoRR},
-  volume    = {abs/2108.07435},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2108.07435},
-  eprinttype = {arXiv},
-  eprint    = {2108.07435},
-  timestamp = {Fri, 20 Aug 2021 13:55:54 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2108-07435.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
+Please [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2108-07435.html?view=bibtex) our paper if you find this work helpful for your research.
