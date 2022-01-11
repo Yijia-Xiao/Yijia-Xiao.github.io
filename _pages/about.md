@@ -17,14 +17,12 @@ My research interests include computational biology, natural language processing
 
 ## Projects
 
-<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 50 million MSA samples. The process takes about 3-4 month. More details and updates will be availabel at this [page](https://yijia-xiao.github.io/projects/academic/1-megatron-msa/).
-
+<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month. More details and updates will be availabel at [here](https://yijia-xiao.github.io/projects/academic/1-megatron-msa/).
 
 `Project details are available at [Projects Section](https://yijia-xiao.github.io/projects/).`
 
 ### Megatron-MSA
 Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://Yijia-Xiao.github.io/files/publications/protein-msa.html).
-
 
 ### Protein-LM
 The work named *Wen Su* in Chinese, and it is one key partition of WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). The protein model has beed used by more than 20 prestigious institutions like [Harvard University](https://www.harvard.edu/) and [University of Toronto](https://www.utoronto.ca/). If you are interested in the model file, please apply from [WuDao AI](https://resource.wudaoai.cn/). Implementation and model files are available [here](https://github.com/THUDM/ProteinLM).
