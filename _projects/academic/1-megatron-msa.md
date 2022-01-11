@@ -1,5 +1,5 @@
 ---
-title: "Megatron-MSA: Cracking the grammar of protein multiple sequence alignments via super scale pretraining"
+title: "Megatron-MSA: Cracking the Grammar of Protein MSA via Super Scale Pretraining"
 excerpt: "Super Scale Pretraining of Protein Language Models with Megatron-LM<br/><img src='/images/3-long-165-hit-98.png' width='45%' height='45%'>"
 collection: projects
 ---
