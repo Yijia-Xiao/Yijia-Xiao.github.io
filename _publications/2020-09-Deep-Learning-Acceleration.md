@@ -9,10 +9,10 @@ venue: 'IEEE International Conference on Cloud Computing and Intelligence System
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-
-嗯，现在深度学习网络中很大一部分的计算都在矩阵乘法。好事并且嗯。比较高的能耗，嗯，为了你。嗯，并且矩阵乘法占到了，嗯。使用通用的嗯计算设备，GPU CPU来。进行一些，嗯。特殊的运算如学生乘法是一种嗯。充分利用啊。计算资源。嗯，儿。嗯，并且在现代的机器学习模型中如。嗯，虽然MLP，嗯。 CNN嗯，transformer的其中很大，嗯，超过60%都是在进行嗯矩阵乘法运算，嗯这是一个嗯计算性能的瓶颈，因此我们提出了使用嗯特定的设备使用，uh对fpj进行编程，使得其对矩阵乘法有加速。
-
-我们嗯因此我们嗯嗯针对这一瓶颈问题，我们嗯考虑使用嗯定制的，嗯。计算流程来的进行加速恶，P可以看做恶的序列组合矩阵，乘法计划，函数soft，max加法嗯吧，嗯，嗯，因此我们的障碍啊。硬件上嗯使用嗯实现了MLP，同时使用嗯流水线，让数据读取和厄计算嗯，能同时进行的充分提高各个部件的利用率
+<!-- 
+在取得优异表现的同时，现代人工神经网络在能耗和速度方面也有比较明显的短板。大规模的神经网络往往需要数百张显卡和数月的时间来完成训练。而常见的模型如MLP、RNN、CNN和Transformer，其中超过30%的操作都是矩阵的乘法运算，占据了大量时间和资源的矩阵乘法成为制约计算性能的瓶颈。从底层来看，使用通用的计算设备（GPU CPU）来进行特定的运算（矩阵乘法）并不能充分地利用计算设备。以MLP为例，它可以看做一个线性的组合：矩阵乘法、激活函数（softmax/ReLU）、加法（bias）。对此，我们提出了使用特定的设备FPGA进行矩阵乘法加速，并且使用流水线技术，使得数据读取和计算并行进行，充分利用各个组件，提高设备利用率。
+ -->
+While achieving excellent performance, modern artificial neural networks have a relatively obvious shortcoming in terms of energy consumption and speed. Large-scale neural networks often require hundreds of graphics cards and months of time to complete training. And common models such as MLP, RNN, CNN and Transformer, in which more than 30% of the operations are matrix multiplication operations, occupy a lot of time and resources of the matrix multiplication become a bottleneck to limit the computational performance. From the bottom, using a general-purpose computing device (GPU CPU) for a specific operation (matrix multiplication) does not fully utilize the computing device. Take MLP as an example, it can be seen as a linear combination: matrix multiplication, activation function (softmax/ReLU), and addition (bias). In this regard, we propose to use device-specific FPGAs for matrix multiplication acceleration and to use pipelining techniques that allow data reading and computation to be performed in parallel, making full use of each component and improving device utilization.
 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
