@@ -1,6 +1,6 @@
 ---
 title: "Super Scale Protein-LM"
-excerpt: "Super Scale Pretraining of Protein Language Models with Megatron-LM<br/><img src='/images/ProteinLM.png' width="50%" height="50%">"
+excerpt: "Super Scale Pretraining of Protein Language Models with Megatron-LM<br/><img src='/images/ProteinLM.png' width='50%' height='50%'>"
 collection: projects
 ---
 
