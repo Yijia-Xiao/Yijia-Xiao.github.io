@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-08-15-ProteinLM-Pretrain
 excerpt: 'We pretrained <i>Wen Su</i>, the second largest protein language model in the world.'
 date: 2020-08-15
-venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/2108.07435'
+venue: 'Pretrain@KDD2021 (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)'
+# paperurl: 'https://arxiv.org/abs/2108.07435'
 # citation: '<b>Yijia Xiao</b>, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh and *Jie Tang (2020). &quot;Modeling Protein Using Large-scale Pretrain Language Model.&quot; <i>Pretrain@KDD2021</i>.'
 ---
 
