@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-09-deep-learning-acceleration
 excerpt: 'We proposed a deep learning inference accelerator based on FPGA, which utilizes quantization and a pipelined matrix multiplication design.'
 date: 2020-09-30
 venue: 'IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS)'
