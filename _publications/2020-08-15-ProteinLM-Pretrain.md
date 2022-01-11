@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
@@ -12,8 +12,10 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
+
+<!-- 
 ---
 title: "Paper Title Number 1"
 collection: publications
@@ -46,4 +48,4 @@ Recommended citation:
   timestamp = {Fri, 20 Aug 2021 13:55:54 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2108-07435.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+} -->
