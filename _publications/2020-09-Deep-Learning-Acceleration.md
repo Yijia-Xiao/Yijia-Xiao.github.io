@@ -8,8 +8,12 @@ venue: 'IEEE International Conference on Cloud Computing and Intelligence System
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
+
+嗯，现在深度学习网络中很大一部分的计算都在矩阵乘法。好事并且嗯。比较高的能耗，嗯，为了你。嗯，并且矩阵乘法占到了，嗯。使用通用的嗯计算设备，GPU CPU来。进行一些，嗯。特殊的运算如学生乘法是一种嗯。充分利用啊。计算资源。嗯，儿。嗯，并且在现代的机器学习模型中如。嗯，虽然MLP，嗯。 CNN嗯，transformer的其中很大，嗯，超过60%都是在进行嗯矩阵乘法运算，嗯这是一个嗯计算性能的瓶颈，因此我们提出了使用嗯特定的设备使用，uh对fpj进行编程，使得其对矩阵乘法有加速。
+
+
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Please [cite](https://dblp.org/rec/journals/corr/abs-2111-08008.html?view=bibtex) our paper if you find this work helpful for your research.
