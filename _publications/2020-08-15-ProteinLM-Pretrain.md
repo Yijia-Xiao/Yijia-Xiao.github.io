@@ -18,7 +18,7 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2020-08-15-ProteinLM-Pretrain
-excerpt: 'We pretrained Wen Su the world's second largest protein language model.'
+excerpt: 'We pretrained Wen Su, the second largest protein language model in the world.'
 date: 2020-08-15
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2108.07435'
