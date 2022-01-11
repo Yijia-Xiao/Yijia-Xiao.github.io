@@ -9,7 +9,7 @@ In the project, we implemented the protein language model (masked language model
 
 Individual contributions:
 - Setup the training cluster (480 * Tesla-V100-32G), and manage the computing recources.
-- Wrote the （PyTorch) code for protein language model and regression tasks.
+- Wrote the (PyTorch) code for protein language model and regression tasks.
 - Pretrained the world's second largest protein model.
 - Evaluated a series of protein models on eight tasks.
 - Wrote the first-author paper, accepted by Pretrain@KDD 2021.

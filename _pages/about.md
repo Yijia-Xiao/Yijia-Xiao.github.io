@@ -17,7 +17,7 @@ My research interests include computational biology, natural language processing
 
 ## Projects
 
-<span style="color:red">News</span>: The 6-billion-parameter model is being pretrained on 50 million MSA samples. The process takes about 3-4 month. More details and updates will be availabel at this [page](https://Yijia-Xiao.github.io/publications/protein-msa.html).
+<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 50 million MSA samples. The process takes about 3-4 month. More details and updates will be availabel at this [page](https://yijia-xiao.github.io/projects/academic/1-megatron-msa/).
 
 ### Protein-LM
 Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction.
