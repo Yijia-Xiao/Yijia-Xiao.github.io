@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Modeling Protein Using Large-scale Pretrain Language Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2020-08-15-ProteinLM-Pretrain
+excerpt: 'We pretrained Wen Su, the second largest protein language model in the world.'
+date: 2020-08-15
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/abs/2108.07435'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This ABC paper is about the number 1. The number 2 is left for future work.
