@@ -24,7 +24,7 @@ Project details about Megatron-MSA are available at [Projects Section](https://y
 
 
 ### Megatron-MSA
-Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://Yijia-Xiao.github.io/files/publications/protein-msa.html).
+Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://yijia-xiao.github.io/projects/research/1-megatron-msa/).
 
 ### Protein-LM
 The work named *Wen Su* in Chinese, and it is one key partition of WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). Up to now, the model file has beed used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc. If you are interested in the model, please [apply at WuDao AI](https://resource.wudaoai.cn/). Implementation are available [here](https://github.com/THUDM/ProteinLM).
