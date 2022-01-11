@@ -22,7 +22,8 @@ redirect_from:
   - Responsible for recruitment, organizing activities, and some media interviews.
 
 ## Invited Talks
-- How to survive in post-AlphaFold2 era? The progress we have achieved.
+<!-- - How to survive in post-AlphaFold2 era? The progress we have achieved. -->
+- How to survive in post-AlphaFold2 era?
   - The Beijing Academy of Artificial Intelligence (BAAI)
   - Short talk. Audience are some officials.
   - 2020/12/22
