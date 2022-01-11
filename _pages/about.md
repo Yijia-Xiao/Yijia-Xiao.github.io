@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yijia (Evan) Xiao's homepage"
+# title: "Yijia (Evan) Xiao's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
