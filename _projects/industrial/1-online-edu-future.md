@@ -17,4 +17,6 @@ My roles and resposibilities in the activity.
 - Organize the writing of industry research report.
 - Defend the project (presentation).
 
+Some new reports on the event can be found [here](https://mp.weixin.qq.com/s/IvDQCIfSM9d6y3iQbNbM9Q).
+
 Through the unity and collaboration of team members, the project finally won the <span style="color:#b08d57">Bronze Award </span>
