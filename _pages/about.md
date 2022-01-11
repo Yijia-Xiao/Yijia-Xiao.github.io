@@ -19,26 +19,23 @@ My research interests include computational biology, natural language processing
 
 <span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 50 million MSA samples. The process takes about 3-4 month. More details and updates will be availabel at this [page](https://yijia-xiao.github.io/projects/academic/1-megatron-msa/).
 
+### Megatron-MSA
+
+Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://Yijia-Xiao.github.io/files/publications/protein-msa.html).
+
+
 ### Protein-LM
 Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction.
 
 Besides, the work is named *Wen Su* in Chinese, and it is one key partition of WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). The protein model has beed used by more than 20 prestigious institutions like [Harvard University](https://www.harvard.edu/) and [University of Toronto](https://www.utoronto.ca/). If you are interested in the model file, please apply from [WuDao AI](https://resource.wudaoai.cn/).
 
-
 Implementation and model files are available [here](https://github.com/THUDM/ProteinLM).
-
-### Protein-MSA
-I am fortunate to work as a research assistant at [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in 2021, advised by [Prof. Jinbo Xu](https://home.ttic.edu/~jinbo/).
-
-Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization)
-
-
-Implementation and model files are available [here](https://github.com/Yijia-Xiao/Protein-MSA).
-
-Detailed information is available [here](https://Yijia-Xiao.github.io/files/publications/protein-msa.html).
 
 ## Publications
 
+Please visit [https://yijia-xiao.github.io/publications/](https://yijia-xiao.github.io/publications/).
+
+<!-- 
 \* for corresponding author
 
 - **[Modeling Protein Using Large-scale Pretrain Language Model](https://Yijia-Xiao.github.io/files/publications/Large-scale_Protein_Language_Model_Pretrain.pdf)** <br/> ***Yijia Xiao***, *Jiezhong Qiu*, *Ziang Li*, *Chang-Yu Hsieh*, *\*Jie Tang* <br/> KDD 2021 Pretrain Workshop (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)
@@ -46,11 +43,11 @@ Detailed information is available [here](https://Yijia-Xiao.github.io/files/publ
 - **[SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance](https://Yijia-Xiao.github.io/files/publications/SPLDExtraTrees_Robust_Machine_Learning_Approach_for_Predicting_Kinase_Inhibitor_Resistance.pdf)** <br/> *Ziyi Yang*, *Zhaofeng Ye*, ***Yijia Xiao***, *\*Changyu Hsieh* <br/> Briefings in Bioinformatics (*under review*)
 
 - **[A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization](https://Yijia-Xiao.github.io/files/publications/Deep_Learning_Pipelined_Matrix_Multiplication_Acceleration_Design.pdf)** <br/> *Yuyang Zhang*, *\*Dik Hin Leung*, *Min Guo*, ***Yijia Xiao***, *Haoyue Liu*, *Yunfei Li*, *Jiyuan Zhang*, *Guan Wang*, *Zhen Chen* <br/> IEEE CCIS 2021 (IEEE International Conference on Cloud Computing and Intelligence Systems)
+ -->
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff&w=a"></script> -->
 
 <p align="center">
-<a href="https://clustrmaps.com/site/1bl9j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bl9j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff" width='35%'/></a>
 </p>
 
 <!-- 
