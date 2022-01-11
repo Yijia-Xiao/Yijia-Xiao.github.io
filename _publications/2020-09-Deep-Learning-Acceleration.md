@@ -15,6 +15,6 @@ venue: 'Yuyang Zhang, *Dik Hin Leung, Min Guo, <b>Yijia Xiao</b>, Haoyue Liu, Yu
 While achieving excellent performance, modern artificial neural networks have a relatively obvious shortcoming in terms of energy consumption and speed. Large-scale neural networks often require hundreds of graphics cards and months of time to complete training. And common models such as MLP, RNN, CNN and Transformer, in which more than 30% of the operations are matrix multiplication operations, occupy a lot of time and resources of the matrix multiplication become a bottleneck to limit the computational performance. From the bottom, using a general-purpose computing device (GPU CPU) for a specific operation (matrix multiplication) does not fully utilize the computing device. Take MLP as an example, it can be seen as a linear combination: matrix multiplication, activation function (softmax/ReLU), and addition (bias). In this regard, we propose to use device-specific FPGAs for matrix multiplication acceleration and to use pipelining techniques that allow data reading and computation to be performed in parallel, making full use of each component and improving device utilization.
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+The paper is available [here](https://yijia-xiao.github.io/files/publications/Deep_Learning_Pipelined_Matrix_Multiplication_Acceleration_Design.pdf).
 
-Please [cite](https://dblp.org/rec/journals/corr/abs-2111-08008.html?view=bibtex) our paper if you find this work helpful for your research.
+Please cite our [paper](https://arxiv.org/abs/2110.04861) if you find this work helpful for your research.

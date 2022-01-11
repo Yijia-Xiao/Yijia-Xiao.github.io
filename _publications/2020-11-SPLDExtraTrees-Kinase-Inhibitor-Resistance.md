@@ -27,4 +27,4 @@ Given the characteristics of the data, we adopted extremely randomized trees, a 
 
 The paper is available [here](https://yijia-xiao.github.io/files/publications/SPLDExtraTrees_Robust_Machine_Learning_Approach_for_Predicting_Kinase_Inhibitor_Resistance.pdf).
 
-Please [cite](https://dblp.org/rec/journals/corr/abs-2111-08008.html?view=bibtex) our paper if you find this work helpful for your research.
+Please [cite](https://arxiv.org/abs/2111.08008) our paper if you find this work helpful for your research.
