@@ -21,15 +21,15 @@ main:
   # - title: "Extracurricular"
   #   url: /extracurricular/
 
-  - title: "More about me"
-    url: /more/
-    # include Extracurricular here, and entrepreneurship, business related courses and experiences
+  # - title: "More about me"
+  #   url: /more/
+  #   # include Extracurricular here, and entrepreneurship, business related courses and experiences
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
-  - title: "Blog Posts"
-    url: /blogs/
+  # - title: "Blog Posts"
+  #   url: /blogs/
     
   # - title: "Guide"
   #   url: /markdown/
