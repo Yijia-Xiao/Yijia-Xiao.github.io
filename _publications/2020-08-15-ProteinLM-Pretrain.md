@@ -6,7 +6,7 @@ excerpt: 'We pretrained <i>Wen Su</i>, the second largest protein language model
 date: 2020-08-15
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2108.07435'
-citation: '<b>Yijia Xiao</b>, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh and *Jie Tang (2020). &quot;Modeling Protein Using Large-scale Pretrain Language Model.&quot; <i>Pretrain@KDD2021</i>.'
+# citation: '<b>Yijia Xiao</b>, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh and *Jie Tang (2020). &quot;Modeling Protein Using Large-scale Pretrain Language Model.&quot; <i>Pretrain@KDD2021</i>.'
 ---
 
 This ABC paper is about the number 1. The number 2 is left for future work.
