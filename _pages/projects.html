@@ -7,8 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>
+  Research projects
+</h2>
+{% for post in site.projects.research %}
+  {% include archive-single.html %}
+{% endfor %}
 
-{% for post in site.projects %}
+<h2>
+  Industrial investigations
+</h2>
+{% for post in site.projects.industrial %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>
+  Startup projects
+</h2>
+{% for post in site.projects.startup %}
   {% include archive-single.html %}
 {% endfor %}
 
