@@ -1,7 +1,7 @@
 ---
 title: "Modeling Protein Using Large-scale Pretrain Language Model"
 collection: publications
-permalink: /publication/2020-08-15-ProteinLM-Pretrain
+permalink: /publication/2020-08-ProteinLM-Pretrain
 excerpt: 'We pretrained the second largest protein language model in the world, <b><i>Wen Su</i></b>, which exceeded baseline in protein folding contact prediction by 39%.'
 date: 2021-08-15
 venue: '<b>Yijia Xiao</b>, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh and *Jie Tang<br>Pretrain@KDD2021 (The International Workshop on Pretraining: Algorithms, Architectures, and Applications)'
