@@ -9,7 +9,7 @@ In the project, we a robust machine learning method for predicting `ligand` bind
 
 Individual contributions:
 - Literature review: formalize the problem setting and related approaches.
-- Feature seletion: use genetics algorithms (GA) tools to select the most important features (filter the noisy ones).
+- Feature selection: use genetics algorithms (GA) tools to select the most important features (filter the noisy ones).
 - Analysis of data distribution: explore appropriate models (`ExtraTrees`, a type of ensemble learning).
 - Experiments: tested and compared `ExtraTrees` with classical methods.
 
