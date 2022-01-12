@@ -1,6 +1,6 @@
 ---
-title: "Will online education continue to thrive?"
-excerpt: "Tsinghua University Online Education Investigation Detachment<br/><img src='/images/industrial-online-edu.png' width='45%' height='45%'>"
+title: "AI x Edu+"
+excerpt: "Will online education continue to thrive? Tsinghua University Online Education Investigation Detachment<br/><img src='/images/industrial-online-edu.png' width='45%' height='45%'>"
 collection: projects
 ---
 
