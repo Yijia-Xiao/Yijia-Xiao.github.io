@@ -12,8 +12,24 @@ I am a senior undergraduate from [Department of Computer Science and Technology]
 
 
 ## Research Interests
-My research interests include computational biology, natural language processing. I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery.
+My research interests include computational biology, natural language processing. I am especially interested in the following areas.
+- AI + Biology/Pharmacology
+  - Inferring high-level properties (e.g. structure) from low-level properties (e.g. primary sequence).
+  - Make drug discovery more directed by modeling the interactions between biomolecules (protein/ligand/DNA).
 
+- AI + Healthcare
+  - Monitor health and give early alerts from electronic health records.
+  - Make clinical diagnosis smarter (multimodal data: texts & imaging).
+  - Detect diseases from clinical samples (protein/scRNA) of patients.
+
+
+I am interested in using the following approaches.
+- **Pre-train**: bridge the gap between `massive unlabeled` and `limited labeled` data.
+- **Interdisciplinary**: with biology, pharmacology, neuroscience, etc.
+  - Use AI to model co-evolution information (inspired by biological approaches).
+  - How can AI formalize a problem, search external databases, and learn (inspired by human's learning/cognition process).
+
+<!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
 ## Projects
 
