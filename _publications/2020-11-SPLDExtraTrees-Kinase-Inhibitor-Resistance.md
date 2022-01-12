@@ -1,7 +1,7 @@
 ---
 title: "SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-11-SPLDExtraTrees-Drug
 excerpt: 'We proposed a robust machine learning method for predicting ligand binding affinity changes upon protein mutations for cancer target Abl kinase and identifying resistant mutations.'
 date: 2020-11-15
 venue: 'Ziyi Yang, Zhaofeng Ye, <b>Yijia Xiao</b>, Chang-Yu Hsieh<br/>Briefings in Bioinformatics'
