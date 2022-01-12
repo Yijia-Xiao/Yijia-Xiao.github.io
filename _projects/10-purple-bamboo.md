@@ -16,11 +16,11 @@ Some UI demonstrations.
  -->
 
 <div>
-    <figure>
+    <figure  width='45%' height='45%'>
         <img src='/images/Purple-Bamboo-Query.png' width='45%' height='45%'>
         <figcaption>(1) Query about some place in China</figcaption>
     </figure>
-    <figure>
+    <figure  width='45%' height='45%'>
         <img src='/images/Purple-Bamboo-Story.png' width='45%' height='45%'>
         <figcaption>(2) Scenario at places of historic interest</figcaption>
     </figure>
