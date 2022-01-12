@@ -22,7 +22,7 @@ Some UI demonstrations.
 My roles and responsibilities in the activity.
 - Design project poster and organize recruitment event.
 - Interview applicants.
-- Contact external companies and arrage visits.
+- Contact external companies and arrange visits.
 - Organize a week-long visit to companies, exchange ideas with industry professionals try companies' new products.
 - Organize the writing of industry research report.
 - Defend the project (presentation).
