@@ -1,6 +1,6 @@
 ---
-title: "Deep Learning Inference Acceleration with FPGA"
-excerpt: "Use quantization and a pipeline matrix multiplication design.<br/><img src='/images/FPGA.png' width='45%' height='45%'>"
+title: "DL-Accelerator"
+excerpt: "Deep Learning Inference Acceleration with FPGA. Use quantization and a pipeline matrix multiplication design.<br/><img src='/images/FPGA.png' width='45%' height='45%'>"
 collection: projects
 ---
 

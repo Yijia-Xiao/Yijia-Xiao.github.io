@@ -1,6 +1,6 @@
 ---
-title: "Megatron-MSA: Cracking the Grammar of Protein MSA via Super Scale Pretraining"
-excerpt: "Cracking the Grammar of Protein via modeling the co-evolution information in protein MSA<br/><img src='/images/3-long-165-hit-98.png' width='45%' height='45%'>"
+title: "Megatron-MSA"
+excerpt: "Cracking the Grammar of Protein via modeling co-evolution information in protein MSA & super-scale pretraining. <br/><img src='/images/3-long-165-hit-98.png' width='45%' height='45%'>"
 collection: projects
 ---
 

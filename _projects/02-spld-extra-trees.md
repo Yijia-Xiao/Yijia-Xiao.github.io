@@ -1,6 +1,6 @@
 ---
-title: "SPLDExtraTrees: Robust machine learning approach for predicting kinase inhibitor resistance"
-excerpt: "Predicting ligand binding affinity changes upon protein mutations.<br/><img src='/images/SPLDExtraTrees.png' width='45%' height='45%'>"
+title: "SPLDExtraTrees"
+excerpt: "Robust machine learning approach for predicting kinase inhibitor resistance. Predicting ligand binding affinity changes upon protein mutations.<br/><img src='/images/SPLDExtraTrees.png' width='45%' height='45%'>"
 collection: projects
 ---
 
