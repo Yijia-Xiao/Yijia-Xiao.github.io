@@ -25,9 +25,9 @@ redirect_from:
 - The [International Conference](https://ic.businesstoday.org/)
   - Held by Princeton University and Business Today.
     - Theme: `Lead the Next Generation`
-  - 150 attendees were accepted worldwide.
+  - **150** attendees were accepted worldwide.
     - *Citigroup* and *Y-Combinator*'s CEO delivered keynotes.
-    - 75 executives taking innovation seminars, and I gained a lot by discussing with CEOs from drug-discovery and healthcare startups.
+    - **75** executives taking innovation seminars, and I gained a lot by discussing with CEOs from drug-discovery and healthcare startups.
   - November 18-24, 2020
 
 - Tsinghua Deep Learning Summer Camp `Volunteer`
