@@ -30,7 +30,7 @@ redirect_from:
     - 75 executives taking innovation seminars, and I gained a lot by discussing with CEOs from drug-discovery and healthcare startups.
   - November 18-24, 2020
 
-- [Tsinghua Deep Learning Summer Camp] `Volunteer`
+- Tsinghua Deep Learning Summer Camp `Volunteer`
   - I provided translation and cultural help for students (from 10+ countries: U.S., U.K., Russia, Germany, Norway, India, Malaysia, New Zealand, Brazil, etc.)
     - We had a great time visiting places of interest, and tech companies to try the latest wearing devices
     - Some photos are available [here](https://yijia-xiao.github.io/services/summercamp/).
