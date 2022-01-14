@@ -42,14 +42,14 @@ redirect_from:
 ## Invited Talks
 <!-- - How to survive in post-AlphaFold2 era? The progress we have achieved. -->
 - How to survive in post-AlphaFold2 era?
-  - The Beijing Academy of Artificial Intelligence (BAAI)
+  - The Beijing Academy of Artificial Intelligence ([BAAI](https://www-pre.baai.ac.cn/en))
   - Short talk. Audience are some officials.
   - 2020/12/22
 - Is BERT enough? Transformer-based models' applications in computational biology.
   - Tsinghua University Knowledge Engineering Group's Machine Learning Open Course.
   - 2020/12/07
 - Super-scale protein language models and its applications
-  - The Beijing Academy of Artificial Intelligence (BAAI)
+  - The Beijing Academy of Artificial Intelligence ([BAAI](https://www-pre.baai.ac.cn/en))
   - Long talk (90 mins). To 12 AI pharmaceutical start-ups for their business cooperation with BAAI.
   - 2020/08/03.
 
