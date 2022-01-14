@@ -58,7 +58,7 @@ Project details about Megatron-MSA are available at [Projects Section](https://y
 
 ## More
 
-I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two entrepreneurial attempts, one is in online education and the other is in Chinese culture dialogue robot.
+I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two such attempts, one is in online education and the other is in Chinese culture dialogue robot.
 
 In addition, I'm a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)), also a member of Tsinghua University *Entrepreneurial Talent Program*.
 
