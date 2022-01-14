@@ -12,7 +12,8 @@ I am a senior undergraduate from [Department of Computer Science and Technology]
 
 
 ## Research Interests
-My research interests include computational biology, natural language processing. I am especially interested in the following areas.
+My research interests are computational biology & natural language processing.
+<!-- The following areas. -->
 - AI + Biology/Pharmacology
   - Infer high-level properties (e.g. structure) from low-level properties/sequences.
   - Make drug discovery more directed by modeling interactions among molecules (protein/ligand/DNA).
@@ -30,7 +31,7 @@ I am interested in using the following approaches.
   - How can AI learn like a human (inspired by human's learning/cognition process).
     - Formalizing problems & search external databases
     - Filtering & absorbing newly acquired knowledge
-    - Reflecting and adjusting knowledge bases
+    - Reflecting and adjusting knowledge bases`
 
 <!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
