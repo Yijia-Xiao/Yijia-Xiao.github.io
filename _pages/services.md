@@ -13,8 +13,8 @@ redirect_from:
   - There were 15 students (3 groups) working on the projects.
   - I was responsible for organizing weekly meetings, tracking progress, and rating their projects.
 
-- Academic **Q&A** Workshop (2019-Now)
-  - Provide academic and translation help to junior students and international students.
+- Academic **Q&A** Workshop Tutor (2019-Now)
+  - Provide academic help (120h+) to junior and international students.
 
 ## Administrative Services
 - Core member at **Tsinghua Future Internet Computing Organization**
