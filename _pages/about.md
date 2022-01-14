@@ -56,7 +56,7 @@ I enjoy creating real-world applications, especially those solving real user nee
 
 In addition, I'm a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([**Hejun Group**](https://www.linkedin.com/company/hejun-ywh/)). Also a member of Tsinghua University *Entrepreneurial Talent Program*.
 
-If you've got some innovative ideas, especially in pharmaceutical and healthcare. Please feel free to contact me / send me the business plan.  It would be cool to discuss about that :-)
+If you've got some innovative ideas, especially in pharmaceutical and healthcare. Please feel free to contact me/send the business plan.  It would be cool to brainstorm together :-)
 
 
 <!-- 
