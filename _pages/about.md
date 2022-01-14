@@ -37,21 +37,27 @@ I am interested in using the following approaches.
 
 Project details about Megatron-MSA are available at [Projects Section](https://yijia-xiao.github.io/projects/).
 
-
-
 ### Megatron-MSA
-Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with only 10% of training data (much higher data utilization). Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/).
+Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs. Exceeded the performance of Facebook's work with less than 10% of training data (much higher data utilization). Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/).
 
 ### Protein-LM
-The work named *Wen Su* in Chinese, and it is one key partition of WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). Up to now, the model file has beed used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc. If you are interested in the model, please [apply at WuDao AI](https://resource.wudaoai.cn/). Implementation are available [here](https://github.com/THUDM/ProteinLM).
+The work is named *Wen Su* in Chinese, a key partition in WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). Up to now, the model has been used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc. If you are interested in the model file, please [apply at WuDao AI](https://resource.wudaoai.cn/). Implementation are available [here](https://github.com/THUDM/ProteinLM).
 
 <!-- [Harvard University](https://www.harvard.edu/), [University of Toronto](https://www.utoronto.ca/) and [NVIDIA](http://www.nvidia.com/) -->
 
 <!-- Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction. -->
 
 ## Publications
-
 Please visit [Publications Section](https://yijia-xiao.github.io/publications/).
+
+## More
+
+I enjoy the process of creating something, especially an application that solves real user needs and reduces production costs for companies. I have had a couple of entrepreneurial attempts, one in online education and the other in Chinese culture dialogue robot.
+
+In addition, I am a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)). I am also a member of Tsinghua University *Entrepreneurial Talent Program*.
+
+If you've got some exciting ideas, especially in pharmaceutical and healthcare. Please feel free to contact me / send me the business plan :-)
+
 
 <!-- 
 \* for corresponding author

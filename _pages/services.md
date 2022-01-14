@@ -38,6 +38,7 @@ redirect_from:
   - I made a dozen of new friends, and we have kept in touch since then :-)
   - June, 2019
 
+
 ## Invited Talks
 <!-- - How to survive in post-AlphaFold2 era? The progress we have achieved. -->
 - How to survive in post-AlphaFold2 era?
