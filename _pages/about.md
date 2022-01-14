@@ -18,7 +18,7 @@ My research interests include computational biology, natural language processing
   - Make drug discovery more directed by modeling the interactions between biomolecules (protein/ligand/DNA).
 
 - AI + Healthcare
-  - Monitor health and give early alerts from electronic health records.
+  - Monitor health and give early alerts from electronic health records & interpretability.
   - Make clinical diagnosis smarter (multimodal data: texts & imaging).
   - Detect diseases from clinical samples (protein/scRNA) of patients.
 
