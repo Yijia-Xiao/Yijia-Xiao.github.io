@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). Also, I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at [Toyota Technological Institute at Chicago](https://www.ttic.edu/). Besides, I interned at [Tencent Quantum Lab](https://quantum.tencent.com/en-us/), where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
+I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at [Toyota Technological Institute at Chicago](https://www.ttic.edu/) since 2021. Besides, I interned at [Tencent Quantum Lab](https://quantum.tencent.com/en-us/), where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
 
 ## Research Interests
@@ -51,9 +51,6 @@ The work is named *Wen Su* in Chinese, a key partition in WuDao AI ([Wikipedia P
 
 <!-- Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction. -->
 
-## Publications
-Please visit [Publications Section](https://yijia-xiao.github.io/publications/).
-
 ## More
 
 I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two entrepreneurial attempts, one is in online education and the other is in Chinese culture dialogue robot.
@@ -62,6 +59,11 @@ In addition, I'm a student of the 14-th class of [**Hejun Business School**](htt
 
 If you've got some innovative ideas, especially in pharmaceutical and healthcare. Please feel free to contact me/send the business plan.  It would be cool to brainstorm together :-)
 
+
+<!-- 
+## Publications
+Please visit [Publications Section](https://yijia-xiao.github.io/publications/).
+ -->
 
 <!-- 
 \* for corresponding author
