@@ -23,16 +23,17 @@ redirect_from:
 
 ## Extracurricular
 - The [International Conference](https://ic.businesstoday.org/)
-  - Conference held by Princeton University and Business Today.
-  - Theme: `Lead the Next Generation`
-  - I was fortunate to be accepted as one of 150 attendees worldwide. Citigroup's CEO and Y Combinator's CEO delivered keynotes.
-  - There were 75 executives taking innovation seminars, and I gained a lot from discussing with CEOs from drug-discovery and healthcare companies.
+  - Held by Princeton University and Business Today.
+    - Theme: `Lead the Next Generation`
+  - I was fortunate to be accepted as one of 150 attendees worldwide.
+    - Citigroup's CEO and Y Combinator's CEO delivered keynotes.
+    - There were 75 executives taking innovation seminars, and I gained a lot from discussing with CEOs from drug-discovery and healthcare companies.
   - November 18-24, 2020
 
 - Tsinghua Deep Learning Summer Camp Volunteer
   - I provided translation and cultural help for students (from 10+ countries: U.S., U.K., Russia, Germany, Norway, India, Malaysia, New Zealand, Brazil, etc.)
-  - We had a great time visiting places of interest. Besides, we also visited technology companies to try the latest wearing devices. Some photos are available [here]
-  - We also studied deep learning courses together.
+    - We had a great time visiting places of interest. Besides, we also visited technology companies to try the latest wearing devices. Some photos are available [here](https://yijia-xiao.github.io/services/summercamp/).
+    - We studied deep learning courses together.
   - I made a dozen of new friends, and we have kept in touch since then :-)
   - June, 2019
 

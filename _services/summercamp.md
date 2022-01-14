@@ -10,10 +10,11 @@ I visited famous places with international visiting students. During the activit
 
 ## Temple of Heaven
 
+**P.S**: I am the fourth one from the right :-)
+
 <img src='/images/summercamp/Temple-of-Heaven.jpg'>"
 
 
-`P.S: I am the fourth from the right :-)`
 
 ## The Great Wall
 
