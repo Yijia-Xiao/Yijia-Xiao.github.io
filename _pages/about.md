@@ -18,7 +18,7 @@ My research interests are computational biology & natural language processing.
   - Infer high-level properties (e.g. structure) from low-level properties/sequences.
   - Make drug discovery more directed by modeling interactions among molecules (protein/ligand/DNA).
 
-- AI + Healthcare (Interpretability)
+- AI + Healthcare (*Interpretability*)
   - Monitor health and set off early alerts from electronic health records.
   - Make clinical diagnosis smarter (multimodal data: texts & imaging).
   - Detect diseases from clinical samples (protein/scRNA) of patients.
@@ -26,9 +26,9 @@ My research interests are computational biology & natural language processing.
 
 I am interested in using the following approaches.
 - **Pre-train**: bridge the gap between `massive unlabeled` and `limited labeled` data.
-- **Interdisciplinary**: with biology, pharmacology, neuroscience, etc.
-  - Use AI to model co-evolution information (inspired by biological approaches).
-  - How can AI learn like a human (inspired by human's learning/cognition process).
+- **Interdisciplinary**: with biology, neuroscience, etc.
+  - Use AI to model *co-evolution* information (inspired by *biology*).
+  - How can AI learn like a human (inspired by *cognition* process).
     - Formalizing problems & search external databases
     - Filtering & absorbing newly acquired knowledge
     - Reflecting and adjusting knowledge bases
