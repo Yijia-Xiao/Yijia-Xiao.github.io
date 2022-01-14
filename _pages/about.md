@@ -31,7 +31,7 @@ I am interested in using the following approaches.
   - How can AI learn like a human (inspired by human's learning/cognition process).
     - Formalizing problems & search external databases
     - Filtering & absorbing newly acquired knowledge
-    - Reflecting and adjusting knowledge bases`
+    - Reflecting and adjusting knowledge bases
 
 <!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
