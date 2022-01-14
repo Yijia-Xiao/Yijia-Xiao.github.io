@@ -52,9 +52,9 @@ Please visit [Publications Section](https://yijia-xiao.github.io/publications/).
 
 ## More
 
-I enjoy the process of creating something, especially an application that solves real user needs and reduces production costs for companies. I have had a couple of entrepreneurial attempts, one in online education and the other in Chinese culture dialogue robot.
+I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two entrepreneurial attempts, one is in online education and the other is in Chinese culture dialogue robot.
 
-In addition, I am a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)). I am also a member of Tsinghua University *Entrepreneurial Talent Program*.
+In addition, I'm a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([**Hejun Group**](https://www.linkedin.com/company/hejun-ywh/)). Also a member of Tsinghua University *Entrepreneurial Talent Program*.
 
 If you've got some exciting ideas, especially in pharmaceutical and healthcare. Please feel free to contact me / send me the business plan :-)
 
