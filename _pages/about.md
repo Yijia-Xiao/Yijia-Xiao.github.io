@@ -27,8 +27,10 @@ My research interests are computational biology & natural language processing.
 <!-- I'm interested in addressing problems from the following perspectives. -->
 The approaches/perspectives I favor for addressing problems.
 - **Universal**
-  - *Pre-training* can extract universal representation, bridging the gap between `massive unlabeled` and `limited labeled` data.
-  - *Knowledge* can be viewed as an empirical summarization. For example, find motifs and infer their properties from massive protein data, and in reverse, use these knowledge to better infer an `unseen` protein.
+  - *Pre-training* can extract universal representation. Bridge the gap between `massive unlabeled` and `limited labeled` data.
+  - *Knowledge* is the empirical summarization of experiences/data.
+    - Find motifs and infer their properties from massive protein data
+    - In reverse, use these knowledge to better infer on `unseen` protein.
 
 - **Interdisciplinary**: with biology, neuroscience, etc.
   - Use AI to model *co-evolution* information (inspired by *biology*).
