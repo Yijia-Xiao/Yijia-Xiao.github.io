@@ -24,8 +24,12 @@ My research interests are computational biology & natural language processing.
   - Detect diseases from clinical samples (protein/scRNA) of patients.
 
 
-I'm interested in addressing problems from the following perspectives.
-- **Universal**: *Pre-training* extracts universal representation, bridging the gap between `massive unlabeled` and `limited labeled` data.
+<!-- I'm interested in addressing problems from the following perspectives. -->
+The approaches/perspectives I favor for addressing problems.
+- **Universal**
+  - *Pre-training* can extract universal representation, bridging the gap between `massive unlabeled` and `limited labeled` data.
+  - *Knowledge* can be viewed as an empirical summarization. For example, find motifs and infer their properties from massive protein data, and in reverse, use these knowledge to better infer an `unseen` protein.
+
 - **Interdisciplinary**: with biology, neuroscience, etc.
   - Use AI to model *co-evolution* information (inspired by *biology*).
   - How can AI learn like a human (inspired by *cognition* process).
