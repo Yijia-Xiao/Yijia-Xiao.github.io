@@ -32,13 +32,17 @@ The approaches/perspectives I favor for addressing problems.
     - Find motifs and infer their properties from massive protein data
     - In reverse, use these knowledge to better infer on `unseen` protein.
 
-- **Interdisciplinary**: with biology, neuroscience, etc.
-  - Use AI to model *co-evolution* information (inspired by *biology*).
-  - How can AI learn like a human (inspired by *cognition* process).
-    - Formalizing problems & search external databases
-    - Filtering & absorbing newly acquired knowledge
+- **Interdisciplinary**: with biology, physics, neuroscience, etc.
+  - Use AI to model *co-evolutionary* information (inspired by *biology*)
+  - How to adapt AI for molecular dynamics
+    - Basic units interact with each other simultaneously (e.g. protein folding), rather than sequentially. NLP models should be adapted for the simultaneity.
+  - How can AI learn like human (inspired by *cognition*)
+    - Formalizing problems and search external databases
     - Reflecting and adjusting knowledge bases
 
+
+
+    <!-- - Filtering & absorbing newly acquired knowledge -->
 <!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
 ## Projects
