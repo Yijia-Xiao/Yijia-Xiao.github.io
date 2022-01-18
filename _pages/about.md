@@ -35,7 +35,7 @@ The approaches/perspectives I favor for addressing problems.
 - **Interdisciplinary**: with biology, physics, neuroscience, etc.
   - Use AI to model *co-evolutionary* information (inspired by *biology*)
   - How to adapt AI for molecular dynamics
-    - Basic units interact with each other simultaneously (e.g. protein folding), rather than sequentially. NLP models should be adapted for the simultaneity.
+    - Basic units interact with each other simultaneously (e.g. protein folding), rather than sequentially. Simultaneity should be a vital addition to NLP models.
   - How can AI learn like human (inspired by *cognition*)
     - Formalizing problems and search external databases
     - Reflecting and adjusting knowledge bases
