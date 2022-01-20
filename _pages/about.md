@@ -32,7 +32,7 @@ The approaches/perspectives I favor for addressing problems.
     - Find motifs and infer their properties from massive protein data
     - In reverse, use these knowledge to better infer on `unseen` protein.
 
-- **Interdisciplinary**: with biology, physics, neuroscience, etc.
+- **Interdisciplinary**: with biology, neuroscience, etc.
   - Use AI to model *co-evolutionary* information (inspired by *biology*)
   - How to adapt AI for molecular dynamics
     - Basic units interact with each other simultaneously (e.g. protein folding), rather than sequentially. Simultaneity should be a vital addition to NLP models.
