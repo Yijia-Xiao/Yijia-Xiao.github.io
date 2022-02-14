@@ -10,6 +10,9 @@ redirect_from:
 
 I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at [Toyota Technological Institute at Chicago](https://www.ttic.edu/) since 2021. Besides, I interned at [Tencent Quantum Lab](https://quantum.tencent.com/en-us/), where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
+I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me.
+
+I apply for Computer Science and Computational Biology PhD program starting from 2022 fall.
 
 ## Research Interests
 My research interests are computational biology & natural language processing.
@@ -72,8 +75,9 @@ I enjoy creating real-world applications, especially those solving real user nee
 
 In addition, I'm a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)), also a member of Tsinghua University *Entrepreneurial Talent Program*.
 
-If you've got some innovative ideas, especially in pharmaceutical and healthcare. Please feel free to contact me/send the business plan.  It would be cool to brainstorm together :-)
+If you've got some interesting ideas, especially in pharmaceutical and healthcare. Please feel free to contact me.  It would be cool to brainstorm together :-)
 
+<!-- /send the business plan -->
 
 <!-- 
 ## Publications
@@ -92,7 +96,7 @@ Please visit [Publications Section](https://yijia-xiao.github.io/publications/).
 
 
 <p align="center">
-<a href="https://clustrmaps.com/site/1bl9j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s&cl=ffffff" width='35%'/></a>
+<a href='https://clustrmaps.com/site/1bl9j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=kI-i930V6akQPyUWlqEbKYEq76tgAxp4CdYHMgd9f4s'/></a>
 </p>
 
 <!-- 
