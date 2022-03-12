@@ -16,15 +16,14 @@ I apply for Computer Science and Computational Biology PhD program starting from
 
 ## Research Interests
 My research interests are computational biology & natural language processing.
-<!-- The following areas. -->
 - AI + Biology
   - Infer high-level properties (e.g. structure) from low-level properties/sequences.
   - Make drug discovery more directed by modeling interactions among molecules (protein/ligand/DNA).
 
 - AI + Healthcare (*Interpretability*)
+  - Detect diseases from clinical samples (protein/scRNA) of patients.
   - Monitor health and set off early alerts from electronic health records.
   - Make clinical diagnosis smarter (multimodal data: texts & imaging).
-  - Detect diseases from clinical samples (protein/scRNA) of patients.
 
 
 <!-- I'm interested in addressing problems from the following perspectives. -->
@@ -33,12 +32,12 @@ The approaches/perspectives I favor for addressing problems.
   - *Pre-training* can extract universal representation. Bridge the gap between `massive unlabeled` and `limited labeled` data.
   - *Knowledge* is the empirical summarization of experiences/data.
     - Find motifs and infer their properties from massive protein data
-    - In reverse, use these knowledge to better infer on `unseen` protein.
+    - In reverse, formalize these knowledge to better support proteomics/genetics research.
 
 - **Interdisciplinary**: with biology, neuroscience, etc.
   - Use AI to model *co-evolutionary* information (inspired by *biology*)
   - How to adapt AI for molecular dynamics
-    - Basic units interact with each other simultaneously (e.g. protein folding), rather than sequentially. Simultaneity should be a vital addition to NLP models.
+    - Building blocks interact with each other simultaneously For protein folding, locality & simultaneity should be added to AI models. [Levinthal's paradox](https://en.wikipedia.org/wiki/Levinthal%27s_paradox).
   - How can AI learn like human (inspired by *cognition*)
     - Formalizing problems and search external databases
     - Reflecting and adjusting knowledge bases
@@ -49,10 +48,11 @@ The approaches/perspectives I favor for addressing problems.
 <!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
 ## Projects
-
+<!-- 
 <span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month.
+ -->
 
-Project details about Megatron-MSA are available at [Projects Section](https://yijia-xiao.github.io/projects/).
+Project details are available at [Projects Section](https://yijia-xiao.github.io/projects/).
 
 - Megatron-MSA
   - Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs.
