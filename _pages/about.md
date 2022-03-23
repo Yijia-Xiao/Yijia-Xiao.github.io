@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at [Toyota Technological Institute at Chicago](https://www.ttic.edu/) since 2021. Besides, I interned at [Tencent Quantum Lab](https://quantum.tencent.com/en-us/), where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
+I am a senior undergraduate from Department of Computer Science and Technology, Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at Toyota Technological Institute at Chicago since 2021. Besides, I interned at Tencent Quantum Lab, where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
 I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me.
 
 I apply for Computer Science and Computational Biology PhD program starting from 2022 fall.
 
+Attention is a scarce resource, so here is a [concise summary](https://yijia-xiao.github.io/files/research-2021.pdf) of my research in 2021.
 
-Attention is a scarce resource, so here is a <a href="https://yijia-xiao.github.io/files/research-2021.pdf" style="color:red;">concise summary</a> of my research in 2021.
+<!-- Attention is a scarce resource, so here is a <a href="https://yijia-xiao.github.io/files/research-2021.pdf" style="color:red;">concise summary</a> of my research in 2021. -->
 
 <!-- ([attention economy](https://en.wikipedia.org/wiki/Attention_economy)). -->
 
