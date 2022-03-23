@@ -10,18 +10,20 @@ redirect_from:
 
 I am a senior undergraduate from Department of Computer Science and Technology, Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at Toyota Technological Institute at Chicago since 2021. Besides, I interned at Tencent Quantum Lab, where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
-I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me.
+<!-- I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me. -->
 
 I apply for Computer Science and Computational Biology PhD program starting from 2022 fall.
 
-Attention is a scarce resource, so here is a [concise summary](https://yijia-xiao.github.io/files/research-2021.pdf) of my research in 2021.
+Attention is a scarce resource. Here is a <a href="https://yijia-xiao.github.io/files/research-2021.pdf" style="color:red;">concise summary</a> of my research in 2021.
 
+<!-- [concise summary](https://yijia-xiao.github.io/files/research-2021.pdf) -->
 <!-- Attention is a scarce resource, so here is a <a href="https://yijia-xiao.github.io/files/research-2021.pdf" style="color:red;">concise summary</a> of my research in 2021. -->
 
 <!-- ([attention economy](https://en.wikipedia.org/wiki/Attention_economy)). -->
 
 ## Research Interests
-My research interests are computational biology & natural language processing.
+`AI/ML + X (biology, health...)`: computational biology, natural language processing.
+
 - AI + Biology
   - Infer high-level properties (e.g. structure) from low-level properties/sequences.
   - Make drug discovery more directed by modeling interactions among molecules (protein/ligand/DNA).
@@ -63,12 +65,11 @@ Project details are available at [Projects Section](https://yijia-xiao.github.io
 - Megatron-MSA
   - Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs.
   - Exceeded the performance of Facebook's work with less than 10% of training data (much higher data utilization).
-  - Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/).
+  <!-- - Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/). -->
 
 - Protein-LM
-  - The work is named *Wen Su* in Chinese, a key partition in WuDao AI ([Wikipedia Page](https://en.wikipedia.org/wiki/Wu_Dao)).
-  - The model has been used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc. 
-  - If you are interested in the model file, please [apply at WuDao AI](https://resource.wudaoai.cn/).
+  - The work (*Wen Su* in Chinese) is a key partition in [WuDao AI](https://en.wikipedia.org/wiki/Wu_Dao).
+  - The model has been used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc (apply at [WuDao Resource](https://resource.wudaoai.cn/)).
   - Implementation are available [here](https://github.com/THUDM/ProteinLM).
 
 <!-- [Harvard University](https://www.harvard.edu/), [University of Toronto](https://www.utoronto.ca/) and [NVIDIA](http://www.nvidia.com/) -->
@@ -79,8 +80,8 @@ Project details are available at [Projects Section](https://yijia-xiao.github.io
 
 I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two such attempts, one is in online education and the other is in Chinese culture dialogue robot.
 
-In addition, I'm a student of the 14-th class of [**Hejun Business School**](http://www.hejupe.com/en/index.php?id=34) ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)), also a member of Tsinghua University *Entrepreneurial Talent Program*.
-
+In addition, I'm a student of the 14-th class of [Hejun Business School](http://www.hejupe.com/en/index.php?id=34), also a member of Tsinghua University *Entrepreneurial Talent Program*.
+<!-- ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)) -->
 If you've got some interesting ideas, especially in pharmaceutical and healthcare. Please feel free to contact me.  It would be cool to brainstorm together :-)
 
 <!-- /send the business plan -->
