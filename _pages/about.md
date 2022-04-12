@@ -78,11 +78,13 @@ Project details are available at [Projects Section](https://yijia-xiao.github.io
 
 ## More
 
-I enjoy creating real-world applications, especially those solving real user needs / reducing production costs for companies. I have two such attempts, one is in online education and the other is in Chinese culture dialogue robot.
+I enjoy creating real-world applications, especially those related to drug discovery, healthcare, and protein design.
 
-In addition, I'm a student of the 14-th class of [Hejun Business School](http://www.hejupe.com/en/index.php?id=34), also a member of Tsinghua University *Entrepreneurial Talent Program*.
-<!-- ([Hejun Group](https://www.linkedin.com/company/hejun-ywh/)) -->
-If you've got some interesting ideas, especially in pharmaceutical and healthcare. Please feel free to contact me.  It would be cool to brainstorm together :-)
+Besides, I'm a **Youth Ambassador** of [MiraclePlus](https://www.linkedin.com/company/miracleplus/) (former [Y Combinator](https://www.ycombinator.com/) China). I have always been looking for promising startups. It's my duty to connect campus projects with investors, especially in pharmaceutical and healthcare.
+
+If you are working in a startup and looking for pre-Series A funding (Seed and Angel rounds). Feel free to contact me (with your *business plan*).
+
+MiraclePlus's typical investment is **$300,000** in exchange for 7% equity.
 
 <!-- /send the business plan -->
 
