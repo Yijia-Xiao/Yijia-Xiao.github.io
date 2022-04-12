@@ -31,7 +31,8 @@ Attention is a scarce resource. Here is a <a href="https://yijia-xiao.github.io/
 - AI + Healthcare (*Interpretability*)
   - Detect diseases from clinical samples (protein/scRNA) of patients.
   - Monitor health and set off early alerts from electronic health records.
-  - Make clinical diagnosis smarter (multimodal data: texts & imaging).
+  
+  <!-- - Make clinical diagnosis smarter (multimodal data: texts & imaging). -->
 
 
 <!-- I'm interested in addressing problems from the following perspectives. -->
@@ -56,30 +57,19 @@ The approaches/perspectives I favor for addressing problems.
 <!-- I am particularly interested in protein folding and virtual screening in computational biology, as well as their applications in drug discovery. -->
 
 ## Projects
-<!-- 
-<span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month.
- -->
 Visit [Projects Section](https://yijia-xiao.github.io/projects/).
-<!-- 
-- Megatron-MSA
-  - Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs.
-  - Exceeded the performance of Facebook's work with less than 10% of training data (much higher data utilization).
-  <!-- - Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/). -->
-
-<!-- - Protein-LM
-  - The work (*Wen Su* in Chinese) is a key partition in [WuDao AI](https://en.wikipedia.org/wiki/Wu_Dao).
-  - The model has been used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc (apply at [WuDao Resource](https://resource.wudaoai.cn/)).
-  - Implementation are available [here](https://github.com/THUDM/ProteinLM). -->
 
 <!-- [Harvard University](https://www.harvard.edu/), [University of Toronto](https://www.utoronto.ca/) and [NVIDIA](http://www.nvidia.com/) -->
 
 <!-- Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction. -->
 
 ## More
-
+<!-- 
 I enjoy creating real-world applications, especially those related to drug discovery, healthcare, and protein design.
 
-Besides, I'm a **Youth Ambassador** of [MiraclePlus](https://www.linkedin.com/company/miracleplus/) (former [Y Combinator](https://www.ycombinator.com/) China). I have always been looking for promising startups. It's my duty to connect campus projects with investors, especially in pharmaceutical and healthcare.
+Besides -->
+
+I'm a **Youth Ambassador** of [MiraclePlus](https://www.linkedin.com/company/miracleplus/) (former [Y Combinator](https://www.ycombinator.com/) China). I have always been looking for promising startups. It's my duty to connect campus projects with investors, especially in pharmaceutical and healthcare.
 
 If you are working in a startup and looking for pre-Series A funding (Seed and Angel rounds). Feel free to contact me (with your *business plan*).
 
