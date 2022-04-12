@@ -12,7 +12,7 @@ I am a senior undergraduate from Department of Computer Science and Technology, 
 
 <!-- I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me. -->
 
-I apply for Computer Science and Computational Biology PhD program starting from 2022 fall.
+<!-- I apply for Computer Science and Computational Biology PhD program starting from 2022 fall. -->
 
 Attention is a scarce resource. Here is a <a href="https://yijia-xiao.github.io/files/research-2021.pdf" style="color:red;">concise summary</a> of my research in 2021.
 
@@ -22,7 +22,7 @@ Attention is a scarce resource. Here is a <a href="https://yijia-xiao.github.io/
 <!-- ([attention economy](https://en.wikipedia.org/wiki/Attention_economy)). -->
 
 ## Research Interests
-`AI/ML + X (biology, health...)`: computational biology, natural language processing.
+`AI/ML + X (biology, health...)`
 
 - AI + Biology
   - Infer high-level properties (e.g. structure) from low-level properties/sequences.
@@ -59,18 +59,17 @@ The approaches/perspectives I favor for addressing problems.
 <!-- 
 <span style="color:red">News</span>: The 6-billion-parameter model (Megatron-MSA) is being pretrained on 40 million MSA samples. The process takes 3-4 month.
  -->
-
-Project details are available at [Projects Section](https://yijia-xiao.github.io/projects/).
-
+Visit [Projects Section](https://yijia-xiao.github.io/projects/).
+<!-- 
 - Megatron-MSA
   - Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs.
   - Exceeded the performance of Facebook's work with less than 10% of training data (much higher data utilization).
   <!-- - Detailed information is available [here](https://yijia-xiao.github.io/projects/00-megatron-msa/). -->
 
-- Protein-LM
+<!-- - Protein-LM
   - The work (*Wen Su* in Chinese) is a key partition in [WuDao AI](https://en.wikipedia.org/wiki/Wu_Dao).
   - The model has been used by 25 institutions, including Harvard University, University of Toronto and NVIDIA Inc (apply at [WuDao Resource](https://resource.wudaoai.cn/)).
-  - Implementation are available [here](https://github.com/THUDM/ProteinLM).
+  - Implementation are available [here](https://github.com/THUDM/ProteinLM). -->
 
 <!-- [Harvard University](https://www.harvard.edu/), [University of Toronto](https://www.utoronto.ca/) and [NVIDIA](http://www.nvidia.com/) -->
 

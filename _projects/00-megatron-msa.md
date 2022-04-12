@@ -6,6 +6,11 @@ collection: projects
 
 `Work in progress, co-advised by Prof. Jinbo Xu and Prof. Jie Tang.`
 
+- Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fragment training strategy* on 1.5 million MSAs.
+- Exceeded the performance of Facebook's work with less than 10% of training data (much higher data utilization).
+
+- Content
+
 Proteins are an indispensable part of life and are linked to almost every important activity in life. Therefore, deciphering protein structures is crucial to the study of life sciences. For decades, researchers have proposed various methods to infer the structure of proteins The primary sequence of a protein. However, inference from individual ones is difficult because there are few co-evolutionary processes that can be extracted from pure primary sequences. Only limited co-evolution can be extracted from pure primary sequences.
 
 Multiple sequence alignment (MSA) provides a good alternative solution. Co-modeling of aligned protein sequences can provide co-evolutionary information between amino acid residues in a protein for structure prediction. prediction. On the other hand, the excellent performance of pre-trained language models on a range of natural language tasks The excellent performance of pre-trained language models on a range of natural language tasks illustrates its potential in identifying patterns from large amounts of unlabeled data Identifying patterns from large amounts of unlabeled data. Combination of multiple sequence alignment and large-scale pre-training The combination of sequence alignment and large-scale pre-trained language models will enable even more precise modeling of proteins.
