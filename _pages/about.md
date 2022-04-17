@@ -73,7 +73,7 @@ I'm a **Youth Ambassador** of [MiraclePlus](https://www.linkedin.com/company/mir
 
 If you are working in a startup and looking for pre-Series A funding (Seed and Angel rounds). Feel free to contact me (with your *business plan*).
 
-MiraclePlus's typical investment is **$300,000** in exchange for **7%** equity.
+<!-- MiraclePlus's typical investment is **$300,000** in exchange for **7%** equity. -->
 
 <!-- /send the business plan -->
 
