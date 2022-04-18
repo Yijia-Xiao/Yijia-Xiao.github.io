@@ -64,14 +64,16 @@ Visit [Projects Section](https://yijia-xiao.github.io/projects/).
 <!-- Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction. -->
 
 ## More
+
+I enjoy creating real-world applications to solve real-world problems, especially those related to drug discovery and healthcare. Besides, I believe new energy industry is promising.
+
+I am passionate about startups and open to cooperation, so please feel free to contact me if you have interesting ideas :-)
+
 <!-- 
-I enjoy creating real-world applications, especially those related to drug discovery, healthcare, and protein design.
-
-Besides -->
-
 I'm a **Youth Ambassador** of [MiraclePlus](https://www.linkedin.com/company/miracleplus/) (former [Y Combinator](https://www.ycombinator.com/) China). I have always been looking for promising startups. It's my duty to connect campus projects with investors, especially in pharmaceutical and healthcare.
 
 If you are working in a startup and looking for pre-Series A funding (Seed and Angel rounds). Feel free to contact me (with your *business plan*).
+ -->
 
 <!-- MiraclePlus's typical investment is **$300,000** in exchange for **7%** equity. -->
 
