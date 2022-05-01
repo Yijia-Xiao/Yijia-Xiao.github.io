@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior undergraduate from Department of Computer Science and Technology, Tsinghua University. I have been working as a research assistant at Tsinghua University Knowledge Engineering Group since 2019, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/). I am fortunate to work with [Prof. Jinbo Xu](https://www.ttic.edu/faculty/xu/) at Toyota Technological Institute at Chicago since 2021. Besides, I interned at Tencent Quantum Lab, where I am fortunate to be mentored by [Dr. Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=en).
 
-I will join [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science as a Ph.D. candidate.
+This fall, I will join [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science as a Ph.D. candidate.
 
 <!-- I am passionate about interdisciplinary research and quite open to interdisciplinary cooperation `AI/ML + X (biology, health...)`. If you are interested, feel free to [contact](mailto:mr.yijia.xiao@gmail.com) me. -->
 
