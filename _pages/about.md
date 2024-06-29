@@ -52,6 +52,34 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Abstract**: We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.
 </div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pretrain@KDD 2021</div><img src='images/ProteinLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modeling protein using large-scale pretrain language model](https://arxiv.org/abs/2108.07435)
+
+**Yijia Xiao**, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh, Jie Tang
+
+**Abstract**: Introducing ProteinLM, a suite of large-scale protein language models comprising 3 billion parameters. ProteinLM enhances contact prediction accuracy from 36% to 75%, showcasing its efficiency in capturing evolutionary data. Our resources are accessible to the public at https://github.com/THUDM/ProteinLM.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2023</div><img src='images/examiner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Benchmarking foundation models with language-model-as-an-examiner](https://arxiv.org/abs/2108.07435)
+
+Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, **Yijia Xiao**, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou
+
+**Abstract**: We propose Language-Model-as-an-Examiner, a novel benchmarking method that utilizes an LM as a knowledgeable examiner to construct dataset and evaluate other models.
+</div>
+</div>
+
 
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -59,7 +87,6 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 
-</div>
 
 
 
