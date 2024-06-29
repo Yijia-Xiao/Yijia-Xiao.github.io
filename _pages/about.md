@@ -51,6 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Yijia Xiao**, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng
 
 - We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.
+
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -87,10 +88,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024*, Delivered a report on the application of machine learning in biomedical scenarios at [dknet](https://dknet.org/).
 - *2022*, Delivered a talk on efficient pre-training of large-scale protein language models at [BioMap](https://www.biomap.com/).
 - *2021*, Delivered a talk on the progress and applications of pre-trained protein models to AI start-ups at Beijing Academy of Artificial Intelligence.
+
 <!-- 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
+
 
 # 💻 Internships
 - *2024.06 - Now*, [AWS](https://aws.amazon.com/entity-resolution/), Seattle.
