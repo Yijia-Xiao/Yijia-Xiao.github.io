@@ -37,37 +37,61 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 
+# 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Started the internship at Amazon Web Service.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/CPPLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Large Language Models Can Be Contextual Privacy Protection Learners](https://arxiv.org/abs/2310.02469)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yijia Xiao**, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng
 
+- We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ -->
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Benchmarking foundation models with language-model-as-an-examiner](https://lmexam.com/), Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou, **Neurips 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021* Research Excellence Scholarship (*Top 2%, 3 / 230*), Tsinghua University.
+- *2020* Silver Medal, ICPC Asia East Continent Final.
+- *2020* Gold Medal, ICPC Asia Regional Contest.
+- *2019* First Prize, Chinese Collegiate Physics Olympiad.
+- *2017* National Bronze, Chinese Physics Olympiad.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Ph.D. Student, Computer Science**, *2022 - Now*  
+  - University of California, Los Angeles
+  - Advisor: [Professor Wei Wang](http://web.cs.ucla.edu/~weiwang/)
+
+- **Bachelor, Computer Science and Technology**, *2018 - 2022*
+  - Tsinghua University
+  - Advisor: [Professor Jie Tang](http://web.cs.ucla.edu/~weiwang/)
 
 <!-- 
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ -->
+
 # 💬 Invited Talks
+- *2024*, Delivered a report on the application of machine learning in biomedical scenarios at [dknet](https://dknet.org/).
+- *2022*, Delivered a talk on efficient pre-training of large-scale protein language models at [BioMap](https://www.biomap.com/).
+- *2021*, Delivered a talk on the progress and applications of pre-trained protein models to AI start-ups at Beijing Academy of Artificial Intelligence.
+<!-- 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
 
 # 💻 Internships
-- *2024.06 - *, [AWS](https://aws.amazon.com/entity-resolution/), Seattle.
+- *2024.06 - Now*, [AWS](https://aws.amazon.com/entity-resolution/), Seattle.
 - *2023.06 - 2023.09*, [NEC Labs America](https://www.nec-labs.com/), Princeton.
