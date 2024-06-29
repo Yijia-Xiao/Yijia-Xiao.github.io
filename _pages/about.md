@@ -65,10 +65,12 @@ My research interest includes neural machine translation and computer vision. I 
 **Yijia Xiao**, Jiezhong Qiu, Ziang Li, Chang-Yu Hsieh, Jie Tang
 
 **Abstract**: Introducing ProteinLM, a suite of large-scale protein language models comprising 3 billion parameters. ProteinLM enhances contact prediction accuracy from 36% to 75%, showcasing its efficiency in capturing evolutionary data. Our resources are accessible to the public at https://github.com/THUDM/ProteinLM.
+
 <a href="https://en.wikipedia.org/wiki/Wu_Dao">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Wikipedia-logo-v2-en.svg" alt="Wikipedia" style="vertical-align:middle; height:1.2em; margin-right:5px;">
-  [Wikipedia] Wen Su
+  [Wikipedia: Wen Su]
 </a>
+
 
 </div>
 </div>
