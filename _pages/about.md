@@ -113,7 +113,7 @@ Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kais
 
 - **Bachelor, Computer Science and Technology**, *2018 - 2022*
   - Tsinghua University
-  - Advisor: [Professor Jie Tang](http://web.cs.ucla.edu/~weiwang/)
+  - Advisor: [Professor Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/)
 
 <!-- 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
