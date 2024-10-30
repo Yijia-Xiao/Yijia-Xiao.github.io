@@ -39,7 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Started the internship at Amazon Web Service.
+- *2024.10*: &nbsp;🎉🎉 One paper accepted at Neurips workshop.
+- *2024.10*: &nbsp;🎉🎉 Three papers accepted at EMNLP.
+- *2024.07*: &nbsp;🎉🎉 Started the internship at Amazon Web Service.
 
 
 # 📝 Publications
