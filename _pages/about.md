@@ -42,67 +42,57 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.06*: &nbsp;🎉🎉 Started the internship at Amazon Web Service.
 
 
-# 📝 Publications 
+# 📝 Publications
+
 <!-- CPPLM Card -->
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">EMNLP 2024 Main</div>
-            <img src='images/CPPLM.png' alt="CPPLM" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        <a href="https://arxiv.org/abs/2310.02469">Large Language Models Can Be Contextual Privacy Protection Learners</a>
-        <p><strong>Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng</strong></p>
-        <p><strong>Abstract:</strong> We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.</p>
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/CPPLM.png' alt="CPPLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models Can Be Contextual Privacy Protection Learners](https://arxiv.org/abs/2310.02469)
+
+**Yijia Xiao**, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng
+
+**Abstract**: We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.
+
+</div></div>
 
 <!-- RNA-GPT Card -->
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">MLSB, Neurips 2024</div>
-            <img src='images/RNA-GPT.png' alt="RNA-GPT" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        <a href="https://rna-gpt.github.io/">RNA-GPT: Multimodal Generative System for RNA Sequence Understanding</a>
-        <p><strong>Yijia Xiao, Edward Sun, Yiqiao Jin, Wei Wang</strong></p>
-        <p><strong>Abstract:</strong> RNA-GPT combines RNA sequence encoders with state-of-the-art LLMs for precise representation alignment, streamlining RNA research by providing accurate responses to RNA queries.</p>
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSB, Neurips 2024</div><img src='images/RNA-GPT.png' alt="RNA-GPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RNA-GPT: Multimodal Generative System for RNA Sequence Understanding](https://rna-gpt.github.io/)
+
+**Yijia Xiao**, Edward Sun, Yiqiao Jin, Wei Wang
+
+**Abstract**: RNA-GPT combines RNA sequence encoders with state-of-the-art LLMs for precise representation alignment, streamlining RNA research by providing accurate responses to RNA queries.
+
+</div></div>
 
 <!-- LogicVista Card -->
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Research Benchmark</div>
-            <img src='images/LogicVista.png' alt="LogicVista" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        <a href="https://arxiv.org/abs/2407.04973/">LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts</a>
-        <p><strong>Yijia Xiao, Edward Sun, Tianyu Liu, Wei Wang</strong></p>
-        <p><strong>Abstract:</strong> LogicVista is an evaluation benchmark designed to assess logical reasoning capabilities of MLLMs in visual contexts, encompassing multiple logical reasoning tasks and capabilities.</p>
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Benchmark</div><img src='images/LogicVista.png' alt="LogicVista" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts](https://arxiv.org/abs/2407.04973/)
+
+Yijia Xiao*, Edward Sun*, Tianyu Liu, Wei Wang
+
+**Abstract**: LogicVista is an evaluation benchmark designed to assess logical reasoning capabilities of MLLMs in visual contexts, encompassing multiple logical reasoning tasks and capabilities.
+
+</div></div>
 
 <!-- ProteinGPT Card -->
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ArXiv Preprint</div>
-            <img src='images/ProteinGPT.png' alt="ProteinGPT" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        <a href="https://arxiv.org/abs/2408.11363">ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding</a>
-        <p><strong>Yijia Xiao, Edward Sun, Yiqiao Jin, Qifan Wang, Wei Wang</strong></p>
-        <p><strong>Abstract:</strong> ProteinGPT enables comprehensive protein analysis by allowing users to upload sequences and structures, providing contextually relevant responses to streamline protein research. Huggingface Demonstraction: https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3.</p>
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/ProteinGPT.png' alt="ProteinGPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363)
+
+**Yijia Xiao**, Edward Sun, Yiqiao Jin, Qifan Wang, Wei Wang
+
+**Abstract**: ProteinGPT enables comprehensive protein analysis by allowing users to upload sequences and structures, providing contextually relevant responses to streamline protein research. 
+
+Huggingface Demonstration: [https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3](https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3).
+
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pretrain@KDD 2021</div><img src='images/ProteinLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,11 +108,7 @@ My research interest includes neural machine translation and computer vision. I 
   [Wikipedia: Wen Su]
 </a>
 
-
-</div>
-</div>
-
-
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2023</div><img src='images/examiner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,8 +118,8 @@ My research interest includes neural machine translation and computer vision. I 
 Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, **Yijia Xiao**, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou
 
 **Abstract**: We propose Language-Model-as-an-Examiner, a novel benchmarking method that utilizes an LM as a knowledgeable examiner to construct dataset and evaluate other models.
-</div>
-</div>
+
+</div></div>
 
 
 <!-- 
