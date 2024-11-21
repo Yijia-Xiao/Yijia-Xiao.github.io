@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science, fortunate to be advised by [Professor Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+I am a third-year Ph.D. student at [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science, fortunate to be advised by [Professor Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
 Prior to that, I obtained my Computer Science bachelor's degree from Tsinghua University, fortunate to be advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 
