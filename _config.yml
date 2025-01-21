@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "YIJIA XIAO"
-description              : "Machine Learning, Computataional Biology, LLM"
+description              : "AI for Biology, LLM for Finance"
 repository               : "Yijia-Xiao/Yijia-Xiao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   googlescholar    : "https://scholar.google.com/citations?user=xLwcZvYAAAAJ"
-  email            : "yijia-xiao@outlook.com"
+  email            : "yijia.xiao@cs.ucla.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

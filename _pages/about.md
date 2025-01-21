@@ -22,11 +22,12 @@ I am a third-year Ph.D. student at [University of California, Los Angeles](https
 Prior to that, I obtained my Computer Science bachelor's degree from Tsinghua University, fortunate to be advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 
 
-My research interest includes machine learning with biology and natural language processing.
+My research interest includes AI for Biology and LLM for Finance.
 
 - Derive complex, information-rich properties (e.g., structural characteristics) from primary properties [*first principle*].
-- Model molecular interactions (protein, ligand, DNA) to make drug discovery more *targeted*.
-- Bridge biological data with user-friendly data modalities (texts, images) using *large language models (LLMs)*.
+  - Bridge biological data with user-friendly data modalities (texts, images) using *large language models (LLMs)*.
+- Derive high-level market structure characteristics by integrating information from various sources [*market liquidity*]
+  - Utilize Multi LLM Agents to process, collaborate, decide and deliver human-friendly contents to finance practitioners.
 
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -39,9 +40,10 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper accepted at Neurips workshop.
+- *2024.10*: &nbsp;🎉🎉 Two Full papers and Two Workshops Papers accepted at AAAI.
+- *2024.10*: &nbsp;🎉 One paper accepted at Neurips workshop.
 - *2024.10*: &nbsp;🎉🎉 Three papers accepted at EMNLP.
-- *2024.07*: &nbsp;🎉🎉 Started the internship at Amazon Web Service.
+- *2024.07*: &nbsp;🎉 Started the internship at Amazon Web Service.
 
 
 # 📝 Publications
