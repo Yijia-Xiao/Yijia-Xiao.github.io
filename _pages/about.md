@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Large Language Models Can Be Contextual Privacy Protection Learners](https://arxiv.org/abs/2310.02469)
 
-**Yijia Xiao**, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng
+**Yijia Xiao**, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Quanquan Gu, Haifeng Chen, Wei Wang, Wei Cheng
 
 **Abstract**: We introduce CPPLM (Contextual Privacy Protection Fine-Tuning for LLM), which emphasizes instruction-based tuning with positive and negative examples, enabling LLMs to capture knowledge while preserving privacy.
 
