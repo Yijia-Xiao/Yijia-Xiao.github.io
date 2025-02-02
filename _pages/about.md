@@ -48,6 +48,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
+<!-- TradingAgents Card -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025, Multi-Agent AI in the Real World </div><img src='images/TradingAgents.png' alt="TradingAgents" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://tradingagents-ai.github.io/)
+
+**Yijia Xiao**, Edward Sun, Di Luo, Wei Wang
+
+**Abstract**: We introduce TradingAgents, a novel stock trading framework inspired by trading firms, utilizing multiple LLM-powered agents with specialized roles such as fundamental, sentiment, and technical analysts, as well as traders with diverse risk profiles. The system features Bull and Bear researchers evaluating market conditions, a risk management team overseeing exposure, and traders integrating insights from debates and historical data to make informed decisions. This collaborative, dynamic environment enhances trading performance, as demonstrated by our comprehensive experiments showing significant improvements in cumulative returns, Sharpe ratio, and maximum drawdown compared to baseline models.
+
+</div></div>
+
 <!-- CPPLM Card -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/CPPLM.png' alt="CPPLM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
