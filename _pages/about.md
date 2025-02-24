@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yijia Xiao**, Edward Sun, Di Luo, Wei Wang
 
-**Abstract**: We present <strong>TradingAgents</strong>, a pioneering multi-agent LLM framework that revolutionizes autonomous trading by simulating professional trading firm dynamics. Our system orchestrates specialized agents—from analysts to risk managers—in a collaborative decision-making process, achieving up to 30.5% annualized returns and 8.21 Sharpe ratio, significantly outperforming traditional trading strategies while maintaining robust risk management.
+**Abstract**: We present <strong>TradingAgents</strong>, a pioneering multi-agent LLM framework that revolutionizes autonomous trading by simulating professional trading firm dynamics. Our system orchestrates specialized agents—from analysts to risk managers—in a collaborative decision-making process, achieving up to 30.5% annualized returns, significantly outperforming traditional trading strategies while maintaining robust risk management.
 
 <!-- **Abstract**: We introduce TradingAgents, a novel stock trading framework inspired by trading firms, utilizing multiple LLM-powered agents with specialized roles such as fundamental, sentiment, and technical analysts, as well as traders with diverse risk profiles. The system features Bull and Bear researchers evaluating market conditions, a risk management team overseeing exposure, and traders integrating insights from debates and historical data to make informed decisions. This collaborative, dynamic environment enhances trading performance, as demonstrated by our comprehensive experiments showing significant improvements in cumulative returns, Sharpe ratio, and maximum drawdown compared to baseline models. -->
 
