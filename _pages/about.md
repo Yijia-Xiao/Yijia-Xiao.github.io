@@ -64,6 +64,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 </div></div>
 
+<!-- ProteinGPT Card -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/ProteinGPT.png' alt="ProteinGPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363), **Spotlight, MLGenX, ICLR 2025**, [**Poster**](https://yijia-xiao.com/assets/ProteinGPT.pdf)
+
+**Yijia Xiao**, Edward Sun, Yiqiao Jin, Qifan Wang, Wei Wang
+
+**Abstract**: ProteinGPT enables comprehensive protein analysis by allowing users to upload sequences and structures, providing contextually relevant responses to streamline protein research. 
+
+Huggingface Demonstration: [https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3](https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3).
+
+</div></div>
+
 <!-- CPPLM Card -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/CPPLM.png' alt="CPPLM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,19 +114,6 @@ Yijia Xiao*, Edward Sun*, Tianyu Liu, Wei Wang
 
 </div></div>
 
-<!-- ProteinGPT Card -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/ProteinGPT.png' alt="ProteinGPT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363)
-
-**Yijia Xiao**, Edward Sun, Yiqiao Jin, Qifan Wang, Wei Wang
-
-**Abstract**: ProteinGPT enables comprehensive protein analysis by allowing users to upload sequences and structures, providing contextually relevant responses to streamline protein research. 
-
-Huggingface Demonstration: [https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3](https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3).
-
-</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pretrain@KDD 2021</div><img src='images/ProteinLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
