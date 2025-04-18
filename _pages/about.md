@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025, Multi-Agent AI in the Real World </div><img src='images/TradingAgents.png' alt="TradingAgents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://tradingagents-ai.github.io/), **Oral Presentation**, [**Poster**](https://yijia-xiao.com/images/TradingAgents-Poster.pdf)
+[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://tradingagents-ai.github.io/), **Oral Presentation**, [**Poster**](https://yijia-xiao.com/assets/TradingAgents-Poster.pdf)
 
 **Yijia Xiao**, Edward Sun, Di Luo, Wei Wang
 
