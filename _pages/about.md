@@ -42,10 +42,13 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Two Full papers and Two Workshops Papers accepted at AAAI.
-- *2024.10*: &nbsp;🎉 One paper accepted at Neurips workshop.
-- *2024.10*: &nbsp;🎉🎉 Three papers accepted at EMNLP.
-- *2024.07*: &nbsp;🎉 Started the internship at Amazon Web Service.
+- *2025.03*: &nbsp;🎉🎉 [TradingAgents](https://github.com/TauricResearch/TradingAgents) Oral @ AAAI Workshop 2025! We have released the service @ [Tauric Research](https://tauric.ai) 🚀
+- *2025.04*: &nbsp;🎉 [ProteinGPT](https://arxiv.org/abs/2408.11363) Spotlight @ ICLR Workshop 2025.
+- *2025.04*: &nbsp; [CSR-Bench](https://www.linkedin.com/posts/activity-7323749837181456386-gYf7/) Oral @ NAACL 2025.
+- *2025.01*: &nbsp; Two Full papers and Two Workshop Papers accepted at AAAI.
+- *2024.10*: &nbsp; One paper accepted at Neurips workshop.
+- *2024.10*: &nbsp; Three papers accepted at EMNLP.
+- *2024.07*: &nbsp; Started the internship at Amazon Web Service.
 
 
 # 📝 Publications
