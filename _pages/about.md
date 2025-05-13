@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science, advised by [Professor Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+I am a third-year Ph.D. candicate at [University of California, Los Angeles](https://www.ucla.edu/)'s Department of Computer Science, fortunate to be advised by [Professor Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
-Prior to that, I obtained my Computer Science bachelor's degree from Tsinghua University, advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+Prior to that, I obtained my Computer Science bachelor's degree from Tsinghua University, fortunately advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 
 
 My research interest includes AI for Biology and LLM for Finance.
