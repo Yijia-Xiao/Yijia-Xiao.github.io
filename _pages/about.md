@@ -42,7 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 [TradingAgents](https://github.com/TauricResearch/TradingAgents) Oral @ AAAI Workshop 2025! We have released the service @ [Tauric Research](https://tauric.ai) 🚀
+- *2025.06*: &nbsp;🎉🎉 [TradingAgents](https://github.com/TauricResearch/TradingAgents) codebase is officially released 🚀
+- *2025.03*: &nbsp;🎉 TradingAgents [Oral](https://arxiv.org/pdf/2412.20138) @ Pennsylvania Convention Center! We have released the service @ [Tauric Research](https://github.com/TauricResearch) 🚀
 - *2025.04*: &nbsp;🎉 [ProteinGPT](https://arxiv.org/abs/2408.11363) Spotlight @ ICLR Workshop 2025.
 - *2025.04*: &nbsp; [CSR-Bench](https://www.linkedin.com/posts/activity-7323749837181456386-gYf7/) Oral @ NAACL 2025.
 - *2025.01*: &nbsp; Two Full papers and Two Workshop Papers accepted at AAAI.
@@ -189,8 +190,9 @@ Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kais
 
 
 # 💻 Internships
-- *2024.06 - Now*, [AWS](https://aws.amazon.com/entity-resolution/), Seattle.
-- *2023.06 - 2023.09*, [NEC Labs America](https://www.nec-labs.com/), Princeton.
+- *2025.06 - Now*, [Point72](https://point72.com), New York.
+- *2024.06 - 2024.09*, [AWS](https://aws.amazon.com), Seattle.
+- *2023.06 - 2023.09*, [NEC Labs America](https://www.nec-labs.com), Princeton.
 
 
 <p align="center">
