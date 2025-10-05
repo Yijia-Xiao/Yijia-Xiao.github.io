@@ -42,8 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2025-10*: &nbsp;🚀 We are pleased to announce the release of [Trading-R1](https://www.arxiv.org/abs/2509.11420), which we initiated in early 2025 and are finally delivering. [Trading-R1 Terminal](https://github.com/TauricResearch/Trading-R1) will land soon.
-- *2025.06*: &nbsp;🎉🎉 [TradingAgents](https://github.com/TauricResearch/TradingAgents) codebase is officially released 🚀
+- *2025-10*: &nbsp;🚀🚀 We are pleased to announce the release of [Trading-R1](https://www.arxiv.org/abs/2509.11420), which we initiated in early 2025 and are finally delivering. [Trading-R1 Terminal](https://github.com/TauricResearch/Trading-R1) will land soon. 🎉
+- *2025.06*: &nbsp;🎉 [TradingAgents](https://github.com/TauricResearch/TradingAgents) codebase is officially released 🚀
 - *2025.03*: &nbsp;🎉 TradingAgents [Oral](https://arxiv.org/pdf/2412.20138) @ Pennsylvania Convention Center! We have released the service @ [Tauric Research](https://github.com/TauricResearch) 🚀
 - *2025.04*: &nbsp;🎉 [ProteinGPT](https://arxiv.org/abs/2408.11363) Spotlight @ ICLR Workshop 2025.
 - *2025.04*: &nbsp; [CSR-Bench](https://www.linkedin.com/posts/activity-7323749837181456386-gYf7/) Oral @ NAACL 2025.
